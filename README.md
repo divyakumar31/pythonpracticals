@@ -1,2 +1,2 @@
 # pythonpracticals
-This is repository takes python practicals.
+This repository is for python practicals.
